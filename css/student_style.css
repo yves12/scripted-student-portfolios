@@ -67,8 +67,19 @@
 
 
 /* Prince Warner's styles */
+  #prince-warner {
+    background-image: url(http://www.billboard.com/files/styles/article_main_image/public/media/drake-summer-sixteen-art-2016-billboard-650.jpg);
+    background-size: 78%;
+    background-position: center;
+    font-size: 25px;
+    color: #000000;
+    font-family: 'Brush Script MT', cursive;
+    text-shadow: 3px 3px #ffffff;
+  }
 
-
+  #prince-warner:hover {
+    background-image: url(https://i.ytimg.com/vi/dYR3-dN9iG4/hqdefault.jpg);
+  }
 /* Roberto Roman's styles */
 
 
