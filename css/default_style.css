@@ -1,0 +1,8 @@
+.student-tile {
+  height: 180px;
+  display: block;
+  padding: 8px;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  margin: 10px;
+}

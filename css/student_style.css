@@ -1,0 +1,81 @@
+/* Will Moritz's styles */
+
+#will-moritz {
+  background-image: url('../images/will_serious.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
+
+#will-moritz:hover {
+  background-image: url('../images/will_smile.jpg');
+  color: #ff00f7;
+  text-shadow: 2px 2px #fff;
+  outline: 10px solid orange;
+  box-shadow: 18px 18px 10px #000;
+  animation: bounce .6s infinite ease;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0px);
+    outline-color: orange;
+  }
+
+  50% {
+    transform: translateY(40px);
+    outline-color: #fae231;
+  }
+}
+
+/* Anais Perez's styles */
+
+
+/* Austin Yates's styles */
+
+
+/* Hernan Rodriguez's styles */
+
+
+/* Hilda Ortega's styles */
+
+
+/* Jenifer Soriano's styles */
+
+
+/* Jessica Valcin's styles */
+
+
+/* Joel Colon's styles */
+
+
+/* Johan Pena's styles */
+
+
+/* Kenia Martinez's styles */
+
+
+/* Luis Abreu's styles */
+
+
+/* Pierre-Ryan Baptiste's styles */
+
+
+/* Prince Warner's styles */
+
+
+/* Roberto Roman's styles */
+
+
+/* Sergio Hugo's styles */
+
+
+/* Shyanne Jordan's styles */
+
+
+/* Tyrese Francis's styles */
