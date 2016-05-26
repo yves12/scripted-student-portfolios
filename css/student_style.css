@@ -135,7 +135,7 @@ background-position: center;
 
 /* Prince Warner's styles */
   #prince-warner {
-    background-image: url(http://www.billboard.com/files/styles/article_main_image/public/media/drake-summer-sixteen-art-2016-billboard-650.jpg);
+    background-image: url(https://media3.giphy.com/media/26BkNIqbzQIXdUi08/200.gif);
     background-size: 78%;
     background-position: center;
     font-size: 25px;
@@ -146,7 +146,23 @@ background-position: center;
 
   #prince-warner:hover {
     background-image: url(https://i.ytimg.com/vi/dYR3-dN9iG4/hqdefault.jpg);
+     color: #fff;
+  text-shadow: 2px 2px #000;
+  outline: 15px solid white;
+  box-shadow: 18px 18px 10px #fff;
+  animation: bounce .5s infinite ease;
   }
+  @keyframes bounce {
+  0%, 100% {
+    transform: translateY(0px);
+    outline-color: white;
+  }
+
+  50% {
+    transform: translateY(5px);
+    outline-color: #000;
+  }
+}
 /* Roberto Roman's styles */
 
 
