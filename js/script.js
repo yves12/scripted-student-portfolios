@@ -43,7 +43,9 @@ $(document).ready(function() {
 
 
   // Prince Warner's Javascript
-
+  $('#prince-warner').mouseenter(function() {
+    document.body.style.backgroundColor = "black";
+  })
 
   // Roberto Roman's Javascript
 
