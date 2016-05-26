@@ -8,7 +8,14 @@ $(document).ready(function() {
   }).mouseleave(function(){
     audio.pause();
   });
+ 
+ var Fetty = new Audio('audio/Fetty Wap - RGF Island [Audio Only].mp3');
 
+  $('#Johan_Pena').mouseenter(function() {
+    Fetty.play();
+  }).mouseleave(function(){
+    Fetty.pause();
+  });
   // Anais Perez's Javascript
 
 
