@@ -33,6 +33,39 @@
   }
 }
 
+#Johan_Pena{
+  background-image: url('https://fireinthebasement.files.wordpress.com/2012/04/meanmug.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
+
+#Johan_Pena:hover {
+  background-image: url('https://images.contentful.com/6m9bd13t776q/hUpgP5MrnMeCKiW8syMGY/57e3374ee492c1d3377aa971a271f3bd/01ee5aa2-d2e2-4427-bc63-38100552fe02_rs_640.640?q=75');
+  color: #ff00f7;
+  text-shadow: 2px 2px #fff;
+  outline: 10px solid orange;
+  box-shadow: 18px 18px 10px #000;
+  animation: bounce .6s infinite ease;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0px);
+    outline-color: orange;
+  }
+
+  50% {
+    transform: translateY(40px);
+    outline-color: #fae231;
+  }
+}
+ 
 /* Anais Perez's styles */
 
 
