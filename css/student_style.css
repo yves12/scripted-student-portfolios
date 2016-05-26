@@ -37,7 +37,13 @@
 
 
 /* Austin Yates's styles */
+#austin-yates{
+  background-image: url("https://66.media.tumblr.com/020a20cf73e5b907f477340fc2fd5d52/tumblr_n28fstTsE41tusohgo1_500.gif");
+background-size:105%; 
+background-position: center;
 
+
+}
 
 /* Hernan Rodriguez's styles */
 
@@ -79,7 +85,7 @@
   to{transform:rotateY(360deg);}
 }
 
-@keyframes borderC{
+@keyframes borderC5{
   from{border-color:yellow;}
   to{border-color:purple;}
 }
