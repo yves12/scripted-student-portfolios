@@ -9,6 +9,7 @@ $(document).ready(function() {
     audio.pause();
   });
 
+// Student 1's JS must fit in lines 13-18
 
 
 
@@ -16,5 +17,6 @@ $(document).ready(function() {
 
 
 
+// Student 2's JS must fit in lines 13-18
 
 });
