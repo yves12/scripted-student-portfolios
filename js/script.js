@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
-  // Will's JS
+  // Einstein's JS
   var audio = new Audio('audio/sounds.wav');
 
-  $('#will-moritz').mouseenter(function() {
+  $('#einstein').mouseenter(function() {
     audio.play();
   }).mouseleave(function(){
     audio.pause();
@@ -17,6 +17,6 @@ $(document).ready(function() {
 
 
 
-// Student 2's JS must fit in lines 13-18
+// Student 2's JS must fit in lines 21-26
 
 });

@@ -1,7 +1,7 @@
-/* Will Moritz's styles */
+/* Albert Einstein's styles */
 
-#will-moritz {
-  background-image: url('../images/will_serious.jpg');
+#einstein {
+  background-image: url('../images/einstein_serious.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
@@ -12,8 +12,8 @@
   transition: .2s;
 }
 
-#will-moritz:hover {
-  background-image: url('../images/will_smile.jpg');
+#einstein:hover {
+  background-image: url('../images/einstein_smile.jpg');
   color: #ff00f7;
   text-shadow: 2px 2px #fff;
   outline: 10px solid orange;
