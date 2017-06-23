@@ -16,7 +16,6 @@ $(document).ready(function() {
 
 
 
-
 // Student 2's JS must fit in lines 21-26
 
 });
